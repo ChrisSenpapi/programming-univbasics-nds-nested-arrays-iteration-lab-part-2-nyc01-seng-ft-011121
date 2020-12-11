@@ -12,10 +12,7 @@ def find_min_in_nested_arrays(src)
      element_index +=1
    end
    new_array.push(min_value)
-#  for  src[i] < min_value
-#    src.push(min_value)
     count +=1
-#  end
  end
  new_array
 end
